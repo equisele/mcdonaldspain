@@ -1,4 +1,4 @@
-# Scraping de Restaurantes McDonalds en España
+# Listado completo de Restaurantes McDonalds en España
 
 Este sencillo script creado con Node.js extrae todos los restaurantes McDonalds existentes en España mediante ingeniería inversa de la API de McDonalds. 
 El fin de este código es meramente educativo.
