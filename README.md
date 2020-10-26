@@ -8,6 +8,10 @@ para realizar una peticíon a la API introduciendo las coordenadas geográficas 
 
 Seguidamente obtiene todos los restaurantes y datos que devuelve el API, los procesa y exporta en formato JSON y CSV que se guardarán en la carpeta /output/
 
+## Cómo ejecutar el script
+
+1. Clonar el repositorio
+
 ## To-dos 
 
 Ahora mismo solo está limpio de duplicados el archivo json llamado mcrestaurantspain.json y queda pendiente la limpieza de duplicados en el archivo mcrestaurantspain.csv
