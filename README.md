@@ -11,6 +11,8 @@ Seguidamente obtiene todos los restaurantes y datos que devuelve el API, los pro
 ## Cómo ejecutar el script
 
 1. Clonar el repositorio
+2. Ejecutar node index.js
+3. Voilá
 
 ## To-dos 
 
