@@ -1,0 +1,350 @@
+"Comunidad";"Provincia";"Poblacion";"Latitud";"Longitud";"Habitantes";"Hombres";"Mujeres"
+"Madrid";"Madrid";"Madrid";"40.41669";"-3.700346";3255944;1532079;1723865
+"Catalunya";"Barcelona";"Barcelona";"41.38792";"2.169919";1621537;771570;849967
+"Valencia";"Valencia/València";"Valencia";"39.47024";"-0.3768049";814208;392300;421908
+"Andalucía";"Sevilla";"Sevilla";"37.38264";"-5.996295";703206;335097;368109
+"Aragón";"Zaragoza";"Zaragoza";"41.65629";"-0.8765379";674317;328470;345847
+"Andalucía";"Málaga";"Málaga";"36.71965";"-4.420019";568305;274209;294096
+"Murcia";"Murcia";"Murcia";"37.98344";"-1.12989";436870;216744;220126
+"Islas Baleares";"Illes Balears";"Palma";"39.56951";"2.649966";401270;197436;203834
+"Canarias";"Las Palmas";"Palmas de Gran Canaria (Las)";"28.12482";"-15.43001";381847;186191;195656
+"País Vasco";"Vizcaya";"Bilbao";"43.25696";"-2.923441";354860;168019;186841
+"Valencia";"Alicante/Alacant";"Alicante/Alacant";"38.3452";"-0.481006";334757;162853;171904
+"Andalucía";"Córdoba";"Córdoba";"37.88473";"-4.779152";328428;158233;170195
+"Castilla León";"Valladolid";"Valladolid";"41.65295";"-4.728388";317864;151570;166294
+"Galicia";"Pontevedra";"Vigo";"42.23136";"-8.712447";297332;141720;155612
+"Asturias";"Asturias";"Gijón";"43.54526";"-5.661926";277554;131594;145960
+"Catalunya";"Barcelona";"Hospitalet de Llobregat (L')";"41.35958";"2.099704";257038;126459;130579
+"Galicia";"A Coruña";"Coruña (A)";"43.37087";"-8.395835";246056;114498;131558
+"País Vasco";"Álava";"Vitoria-Gasteiz";"42.84641";"-2.667893";235661;116278;119383
+"Andalucía";"Granada";"Granada";"37.17649";"-3.597929";234325;108745;125580
+"Valencia";"Alicante/Alacant";"Elche/Elx";"38.2655";"-0.6984587";230112;115289;114823
+"Asturias";"Asturias";"Oviedo";"43.36026";"-5.844759";224005;104605;119400
+"Canarias";"Santa Cruz de Tenerife";"Santa Cruz de Tenerife";"28.46981";"-16.25486";222417;106829;115588
+"Catalunya";"Barcelona";"Badalona";"41.45014";"2.24742";219547;110185;109362
+"Murcia";"Murcia";"Cartagena";"37.60565";"-0.9912944";211996;106755;105241
+"Catalunya";"Barcelona";"Terrassa";"41.56095";"2.01044";210941;105046;105895
+"Andalucía";"Cádiz";"Jerez de la Frontera";"36.68656";"-6.137173";207532;101542;105990
+"Catalunya";"Barcelona";"Sabadell";"41.54862";"2.107421";206493;101295;105198
+"Madrid";"Madrid";"Móstoles";"40.32277";"-3.865741";206478;102781;103697
+"Madrid";"Madrid";"Alcalá de Henares";"40.48166";"-3.364136";204574;102436;102138
+"Navarra";"Navarra";"Pamplona/Iruña";"42.81721";"-1.646767";198491;95145;103346
+"Madrid";"Madrid";"Fuenlabrada";"40.28387";"-3.800329";197836;99797;98039
+"Andalucía";"Almería";"Almería";"36.84016";"-2.467922";188810;92396;96414
+"Madrid";"Madrid";"Leganés";"40.32642";"-3.758988";186066;92158;93908
+"País Vasco";"Guipúzcoa";"Donostia-San Sebastián";"43.32074";"-1.984421";185357;86935;98422
+"Cantabria";"Cantabria";"Santander";"43.46096";"-3.807934";182700;84984;97716
+"Valencia";"Castellón/Castelló";"Castellón de la Plana/Castelló de la Plana";"39.98598";"-0.0376709";180005;88979;91026
+"Castilla León";"Burgos";"Burgos";"42.34087";"-3.699731";178966;86417;92549
+"Castilla La Mancha";"Albacete";"Albacete";"38.99765";"-1.86007";169716;83838;85878
+"Madrid";"Madrid";"Alcorcón";"40.34912";"-3.828811";167967;82705;85262
+"Madrid";"Madrid";"Getafe";"40.30498";"-3.732677";167164;82971;84193
+"Castilla León";"Salamanca";"Salamanca";"40.96497";"-5.663047";155619;72048;83571
+"La Rioja";"La Rioja";"Logroño";"42.46577";"-2.449995";152107;73813;78294
+"Canarias";"Santa Cruz de Tenerife";"San Cristóbal de La Laguna";"28.48812";"-16.31478";150661;73870;76791
+"Andalucía";"Huelva";"Huelva";"37.2571";"-6.949555";148806;71983;76823
+"Extremadura";"Badajoz";"Badajoz";"38.8786";"-6.970284";148334;72085;76249
+"Catalunya";"Tarragona";"Tarragona";"41.11866";"1.24533";140323;69512;70811
+"Catalunya";"Lleida";"Lleida";"41.61415";"0.6257825";135919;67790;68129
+"Andalucía";"Málaga";"Marbella";"36.50994";"-4.886352";134623;65808;68815
+"Castilla León";"León";"León";"42.59988";"-5.571752";134305;61823;72482
+"Andalucía";"Cádiz";"Cádiz";"36.52969";"-6.292657";126766;60289;66477
+"Andalucía";"Sevilla";"Dos Hermanas";"37.28318";"-5.922242";122943;60935;62008
+"Catalunya";"Barcelona";"Mataró";"41.5375";"2.445278";121722;60975;60747
+"Catalunya";"Barcelona";"Santa Coloma de Gramenet";"41.45107";"2.208978";119717;60889;58828
+"Madrid";"Madrid";"Torrejón de Ardoz";"40.4589";"-3.479771";118162;59640;58522
+"Andalucía";"Jaén";"Jaén";"37.76574";"-3.789518";116557;56348;60209
+"Andalucía";"Cádiz";"Algeciras";"36.12978";"-5.447698";116209;57582;58627
+"Madrid";"Madrid";"Parla";"40.23754";"-3.772741";115611;59359;56252
+"Madrid";"Madrid";"Alcobendas";"40.54754";"-3.642091";109104;53141;55963
+"Galicia";"Ourense";"Ourense";"42.34001";"-7.864641";107742;49824;57918
+"Catalunya";"Tarragona";"Reus";"41.15482";"1.108676";107118;53182;53936
+"Valencia";"Alicante/Alacant";"Torrevieja";"37.97747";"-0.6832271";101792;51781;50011
+"Canarias";"Las Palmas";"Telde";"27.99604";"-15.41789";100015;49765;50250
+"País Vasco";"Vizcaya";"Barakaldo";"43.29683";"-2.985259";98460;47812;50648
+"Galicia";"Lugo";"Lugo";"43.01208";"-7.555851";96678;45165;51513
+"Andalucía";"Cádiz";"San Fernando";"36.46572";"-6.196626";96366;47536;48830
+"Catalunya";"Girona";"Girona";"41.9818";"2.8237";96188;47161;49027
+"Galicia";"A Coruña";"Santiago de Compostela";"42.88045";"-8.546304";95092;44320;50772
+"Extremadura";"Cáceres";"Cáceres";"39.47618";"-6.37076";93131;44789;48342
+"Murcia";"Murcia";"Lorca";"37.67131";"-1.698792";91906;47784;44122
+"Madrid";"Madrid";"Coslada";"40.42594";"-3.565464";90280;45394;44886
+"Castilla La Mancha";"Toledo";"Talavera de la Reina";"39.9598";"-4.834432";88856;43540;45316
+"Andalucía";"Cádiz";"Puerto de Santa María (El)";"36.59695";"-6.227526";87696;43320;44376
+"Catalunya";"Barcelona";"Cornellà de Llobregat";"41.35561";"2.070432";86519;42953;43566
+"Madrid";"Madrid";"Rozas de Madrid (Las)";"40.31007";"-4.490765";86340;41917;44423
+"Valencia";"Alicante/Alacant";"Orihuela";"38.08395";"-0.9447829";86164;43368;42796
+"Asturias";"Asturias";"Avilés";"43.55577";"-5.927617";84242;40419;43823
+"Andalucía";"Almería";"Ejido (El)";"36.77506";"-2.812738";84227;47263;36964
+"Castilla La Mancha";"Guadalajara";"Guadalajara";"40.62981";"-3.166493";83039;40999;42040
+"Andalucía";"Almería";"Roquetas de Mar";"36.76427";"-2.614935";82665;43095;39570
+"Castilla León";"Palencia";"Palencia";"42.01246";"-4.531175";82651;39218;43433
+"Catalunya";"Barcelona";"Sant Boi de Llobregat";"41.34739";"2.043103";82428;40937;41491
+"Madrid";"Madrid";"Pozuelo de Alarcón";"40.4352";"-3.813062";82428;39587;42841
+"Castilla La Mancha";"Toledo";"Toledo";"39.85678";"-4.024476";82291;39497;42794
+"Galicia";"Pontevedra";"Pontevedra";"42.43362";"-8.648053";81576;38662;42914
+"País Vasco";"Vizcaya";"Getxo";"43.36229";"-3.012567";80770;38094;42676
+"Valencia";"Valencia/València";"Gandia";"38.96902";"-0.1851868";80020;40385;39635
+"Catalunya";"Barcelona";"Sant Cugat del Vallès";"41.47186";"2.082139";79253;38789;40464
+"Ceuta y Melilla";"Ceuta";"Ceuta";"35.88829";"-5.316195";78674;40118;38556
+"Canarias";"Santa Cruz de Tenerife";"Arona";"28.10047";"-16.68066";78614;40879;37735
+"Valencia";"Valencia/València";"Torrent";"39.43688";"-0.4653109";78543;39429;39114
+"Andalucía";"Cádiz";"Chiclana de la Frontera";"36.41915";"-6.149412";77293;39050;38243
+"Catalunya";"Barcelona";"Manresa";"41.72517";"1.823353";76558;37784;38774
+"Madrid";"Madrid";"San Sebastián de los Reyes";"40.54751";"-3.626394";75912;37284;38628
+"Galicia";"A Coruña";"Ferrol";"43.48839";"-8.222509";74273;34876;39397
+"Andalucía";"Málaga";"Vélez-Málaga";"36.77864";"-4.100675";74190;37038;37152
+"Castilla La Mancha";"Ciudad Real";"Ciudad Real";"38.9861";"-3.927263";74014;35073;38941
+"Andalucía";"Málaga";"Mijas";"36.5957";"-4.637619";73787;37063;36724
+"Ceuta y Melilla";"Melilla";"Melilla";"35.29234";"-2.938794";73460;37244;36216
+"Catalunya";"Barcelona";"Rubí";"41.49233";"2.031262";72987;36694;36293
+"Andalucía";"Málaga";"Fuengirola";"36.53901";"-4.624353";71482;35339;36143
+"Valencia";"Alicante/Alacant";"Benidorm";"38.53704";"-0.1290771";71034;35796;35238
+"Andalucía";"Sevilla";"Alcalá de Guadaíra";"37.33833";"-5.844032";70155;34956;35199
+"Castilla León";"León";"Ponferrada";"42.54633";"-6.590833";68736;33329;35407
+"Madrid";"Madrid";"Rivas-Vaciamadrid";"40.3297";"-3.516941";68405;34291;34114
+"Madrid";"Madrid";"Majadahonda";"40.47283";"-3.872304";68110;32520;35590
+"Castilla León";"Zamora";"Zamora";"41.50368";"-5.743778";66293;31380;34913
+"Valencia";"Valencia/València";"Sagunto/Sagunt";"39.68077";"-0.2779768";66070;32834;33236
+"Catalunya";"Barcelona";"Vilanova i la Geltrú";"41.22415";"1.725568";65890;32431;33459
+"Andalucía";"Cádiz";"Sanlúcar de Barrameda";"36.77882";"-6.354198";65805;32843;32962
+"Andalucía";"Málaga";"Estepona";"36.42477";"-5.144903";65592;32976;32616
+"Andalucía";"Málaga";"Torremolinos";"36.62179";"-4.500273";65448;32845;32603
+"Andalucía";"Cádiz";"Línea de la Concepción (La)";"36.16118";"-5.348256";64595;31947;32648
+"Murcia";"Murcia";"Molina de Segura";"38.05092";"-1.210992";64065;32194;31871
+"Valencia";"Valencia/València";"Paterna";"39.50206";"-0.4405986";64023;32136;31887
+"Canarias";"Las Palmas";"Santa Lucía de Tirajana";"27.91272";"-15.54124";63637;32142;31495
+"Catalunya";"Barcelona";"Viladecans";"41.31601";"2.020199";63489;31891;31598
+"Catalunya";"Barcelona";"Prat de Llobregat (El)";"41.33047";"2.093149";63418;31601;31817
+"Madrid";"Madrid";"Valdemoro";"40.19269";"-3.679874";62750;31546;31204
+"Catalunya";"Barcelona";"Castelldefels";"41.28039";"1.976774";62080;31116;30964
+"Valencia";"Alicante/Alacant";"Alcoy/Alcoi";"38.69763";"-0.4730959";61552;29854;31698
+"Andalucía";"Jaén";"Linares";"38.09362";"-3.635844";61338;30067;31271
+"País Vasco";"Guipúzcoa";"Irun";"43.33823";"-1.789272";60951;29878;31073
+"Catalunya";"Barcelona";"Granollers";"41.60821";"2.287789";60658;30504;30154
+"Andalucía";"Granada";"Motril";"36.74467";"-3.516718";60279;29907;30372
+"Canarias";"Las Palmas";"Arrecife";"28.95951";"-13.5476";59127;30443;28684
+"Andalucía";"Málaga";"Benalmádena";"36.59523";"-4.573368";58854;29111;29743
+"Catalunya";"Barcelona";"Cerdanyola del Vallès";"41.49137";"2.140769";58747;29070;29677
+"Castilla León";"Ávila";"Ávila";"40.65642";"-4.700323";56855;27485;29370
+"Castilla León";"Segovia";"Segovia";"40.94943";"-4.119209";56660;27415;29245
+"Extremadura";"Badajoz";"Mérida";"38.91586";"-6.345606";56395;27555;28840
+"Cantabria";"Cantabria";"Torrelavega";"43.35146";"-4.047017";55947;26887;29060
+"Castilla La Mancha";"Cuenca";"Cuenca";"40.07183";"-2.134005";55866;27006;28860
+"Valencia";"Alicante/Alacant";"Elda";"38.47803";"-0.7904639";55168;27101;28067
+"Madrid";"Madrid";"Collado Villalba";"40.62725";"-4.008587";55027;27233;27794
+"Madrid";"Madrid";"Aranjuez";"40.03209";"-3.603288";54055;26606;27449
+"Valencia";"Alicante/Alacant";"San Vicente del Raspeig/Sant Vicent del Raspeig";"38.39609";"-0.5249284";53126;26404;26722
+"Catalunya";"Barcelona";"Mollet del Vallès";"41.54052";"2.213529";52484;26445;26039
+"Canarias";"Las Palmas";"San Bartolomé de Tirajana";"27.92461";-15573;52161;27228;24933
+"Aragón";"Huesca";"Huesca";"42.1401";"-0.408898";52059;25373;26686
+"Castilla La Mancha";"Ciudad Real";"Puertollano";"38.68604";"-4.112146";51842;25334;26508
+"Islas Baleares";"Illes Balears";"Calvià";"39.56524";"2.504216";51774;26096;25678
+"Madrid";"Madrid";"Arganda del Rey";"40.30095";"-3.43808";51489;26585;24904
+"Valencia";"Castellón/Castelló";"Vila-real";"39.93835";"-0.1018287";51205;25771;25434
+"Asturias";"Asturias";"Siero";43383;"-5.65";51181;24987;26194
+"Andalucía";"Sevilla";"Utrera";"37.18142";"-5.781507";50665;25341;25324
+"Islas Baleares";"Illes Balears";"Eivissa";"38.90886";"1.432378";48684;25131;23553
+"País Vasco";"Vizcaya";"Portugalete";"43.32066";"-3.020252";48105;23193;24912
+"País Vasco";"Vizcaya";"Santurtzi";"43.32871";"-3.031772";46978;22890;24088
+"Catalunya";"Barcelona";"Esplugues de Llobregat";"41.37751";"2.088085";46862;22885;23977
+"Catalunya";"Barcelona";"Gavà";"41.30317";"2.003213";45994;22837;23157
+"Asturias";"Asturias";"Langreo";"43.29636";"-5.682541";45565;21697;23868
+"Andalucía";"Málaga";"Antequera";"37.01938";"-4.562885";45168;22257;22911
+"Valencia";"Valencia/València";"Alzira";"39.15159";"-0.4404637";44690;21889;22801
+"Valencia";"Alicante/Alacant";"Dénia";"38.84043";"0.1085751";44464;22105;22359
+"Asturias";"Asturias";"Mieres";"43.25179";"-5.776198";44070;20969;23101
+"Valencia";"Valencia/València";"Mislata";"39.47624";"-0.4193065";43756;21475;22281
+"Madrid";"Madrid";"Colmenar Viejo";"40.65895";"-3.766043";43700;21769;21931
+"Madrid";"Madrid";"Pinto";"40.24454";"-3.696013";43501;21865;21636
+"Madrid";"Madrid";"Boadilla del Monte";"40.40525";"-3.876992";43414;21305;22109
+"Catalunya";"Girona";"Figueres";"42.2675";"2.96084";43330;21689;21641
+"Canarias";"Santa Cruz de Tenerife";"Adeje";"28.12185";"-16.72464";43204;22277;20927
+"Catalunya";"Barcelona";"Sant Feliu de Llobregat";"41.38094";"2.045171";42919;20937;21982
+"País Vasco";"Vizcaya";"Basauri";"43.23333";"-2.883333";42657;20873;21784
+"Andalucía";"Córdoba";"Lucena";"37.40873";"-4.485598";42248;21082;21166
+"Canarias";"Santa Cruz de Tenerife";"Orotava (La)";"28.39108";"-16.52354";41171;20328;20843
+"Extremadura";"Cáceres";"Plasencia";"40.0305";"-6.088251";41148;20102;21046
+"Murcia";"Murcia";"Alcantarilla";"37.97068";"-1.218209";41084;20484;20600
+"Madrid";"Madrid";"Tres Cantos";"40.59907";"-3.712258";41064;20018;21046
+"Madrid";"Madrid";"San Fernando de Henares";"40.42553";"-3.536694";40981;20484;20497
+"Andalucía";"Sevilla";"Mairena del Aljarafe";"37.34449";"-6.065354";40700;20150;20550
+"Islas Baleares";"Illes Balears";"Manacor";"39.57434";"3.20142";40548;20494;20054
+"Andalucía";"Sevilla";"Écija";"37.54093";"-5.079953";40400;19901;20499
+"Andalucía";"Cádiz";"Puerto Real";"36.52912";"-6.191895";40183;20271;19912
+"Catalunya";"Girona";"Blanes";"41.67427";"2.792096";40047;20297;19750
+"Canarias";"Santa Cruz de Tenerife";"Granadilla de Abona";"28.12018";"-16.57691";39993;20540;19453
+"Catalunya";"Barcelona";"Vic";"41.93029";"2.25435";39844;19940;19904
+"Castilla León";"Soria";"Soria";"41.7636";"-2.464921";39528;18936;20592
+"Catalunya";"Girona";"Lloret de Mar";"41.69878";"2.847584";39363;20879;18484
+"Castilla León";"Burgos";"Miranda de Ebro";"42.68734";"-2.947593";39264;19839;19425
+"Andalucía";"Jaén";"Andújar";"38.03675";"-4.054391";39111;19305;19806
+"Catalunya";"Barcelona";"Igualada";"41.57877";"1.617193";38918;19325;19593
+"País Vasco";"Guipúzcoa";"Errenteria";"43.31275";"-1.899633";38767;19009;19758
+"Andalucía";"Málaga";"Rincón de la Victoria";"36.71566";"-4.275504";38666;19178;19488
+"Valencia";"Valencia/València";"Burjassot";"39.51051";"-0.4149856";38433;18817;19616
+"Catalunya";"Barcelona";"Vilafranca del Penedès";"41.34509";"1.699849";38425;19145;19280
+"Castilla La Mancha";"Ciudad Real";"Tomelloso";"39.15775";"-3.020807";38095;19301;18794
+"Valencia";"Valencia/València";"Ontinyent";"38.82102";"-0.610547";37735;18907;18828
+"Galicia";"A Coruña";"Narón";"43.53705";"-8.180766";37712;18343;19369
+"Galicia";"Pontevedra";"Vilagarcía de Arousa";"42.59387";"-8.765963";37576;18110;19466
+"Canarias";"Santa Cruz de Tenerife";"Realejos (Los)";"28.36667";"-16.58333";37559;18601;18958
+"Catalunya";"Barcelona";"Ripollet";"41.49736";"2.155674";37088;18787;18301
+"Andalucía";"Málaga";"Ronda";"36.74196";"-5.166412";36827;18124;18703
+"Andalucía";"Sevilla";"Palacios y Villafranca (Los)";"37.15859";"-5.924166";36824;18586;18238
+"Canarias";"Las Palmas";"Arucas";"28.11927";"-15.52474";36259;18159;18100
+"Islas Baleares";"Illes Balears";"Llucmajor";"39.48591";"2.89485";36078;18343;17735
+"Andalucía";"Sevilla";"Rinconada (La)";"37.4878";"-5.979309";35928;17955;17973
+"Catalunya";"Tarragona";"Vendrell (El)";"41.22042";"1.534845";35821;18039;17782
+"Extremadura";"Badajoz";"Don Benito";"38.9543";"-5.861752";35791;17696;18095
+"Canarias";"Las Palmas";"Puerto del Rosario";"28.4965";"-13.86221";35667;18551;17116
+"Andalucía";"Jaén";"Úbeda";"38.00809";"-3.368519";35649;17489;18160
+"Aragón";"Teruel";"Teruel";"40.34411";"-1.10691";35396;17264;18132
+"Valencia";"Alicante/Alacant";"Villena";"38.63634";"-0.8661389";35222;17559;17663
+"Murcia";"Murcia";"Mazarrón";"37.59907";"-1.313669";35221;18579;16642
+"Murcia";"Murcia";"Cieza";"38.23907";"-1.418767";35200;17666;17534
+"Catalunya";"Tarragona";"Tortosa";40811;"0.5209974";35143;17905;17238
+"Andalucía";"Málaga";"Alhaurín de la Torre";"36.66836";"-4.552967";35114;17562;17552
+"Murcia";"Murcia";"Yecla";"38.61524";"-1.118017";35025;17668;17357
+"Navarra";"Navarra";"Tudela";"42.06388";"-1.605718";34717;17311;17406
+"Valencia";"Castellón/Castelló";"Borriana/Burriana";"39.88987";"-0.0836936";34565;17406;17159
+"Murcia";"Murcia";"Águilas";"37.4038";"-1.581161";34533;17426;17107
+"Valencia";"Alicante/Alacant";"Petrer";"38.47744";"-0.7742523";34523;17231;17292
+"Valencia";"Alicante/Alacant";"Villajoyosa/Vila Joiosa (la)";"38.50775";"-0.2326134";33797;16940;16857
+"Catalunya";"Barcelona";"Sant Adrià de Besòs";"41.4306";"2.218239";33761;16622;17139
+"Extremadura";"Badajoz";"Almendralejo";"38.68982";"-6.405679";33588;16973;16615
+"Catalunya";"Girona";"Olot";"42.18211";"2.488189";33524;16856;16668
+"Catalunya";"Barcelona";"Montcada i Reixac";"41.48231";"2.188504";33453;16668;16785
+"Galicia";"A Coruña";"Oleiros";"43.3335";"-8.313619";33443;16205;17238
+"Islas Baleares";"Illes Balears";"Marratxí";"39.64213";"2.752193";33348;16855;16493
+"Castilla León";"Burgos";"Aranda de Duero";"41.67171";"-3.686569";32928;16444;16484
+"Valencia";"Castellón/Castelló";"Vall d'Uixó (la)";"39.82333";"-0.2325619";32924;16365;16559
+"Castilla La Mancha";"Guadalajara";"Azuqueca de Henares";"40.56503";"-3.268549";32744;16936;15808
+"Canarias";"Santa Cruz de Tenerife";"Puerto de la Cruz";"28.41339";"-16.54516";32219;15652;16567
+"Catalunya";"Barcelona";"Sant Joan Despí";"41.36769";"2.056065";32030;15701;16329
+"Madrid";"Madrid";"Galapagar";"40.57736";"-4.00357";31820;15936;15884
+"Valencia";"Alicante/Alacant";"Santa Pola";"38.1923";"-0.5552066";31760;16115;15645
+"Catalunya";"Tarragona";"Cambrils";"41.06705";"1.056419";31720;15861;15859
+"Cantabria";"Cantabria";"Castro-Urdiales";"43.38277";"-3.21957";31670;16102;15568
+"Valencia";"Alicante/Alacant";"Jávea/Xàbia";"38.79546";"0.1166293";31593;15844;15749
+"Murcia";"Murcia";"Torre-Pacheco";"37.74428";"-0.9536195";31495;16592;14903
+"Murcia";"Murcia";"San Javier";"37.80569";"-0.8345491";31432;16114;15318
+"Cantabria";"Cantabria";"Camargo";"43.40667";"-3.883333";31404;15639;15765
+"Islas Baleares";"Illes Balears";"Santa Eulalia del Río";"38.98257";"1.530198";31314;16093;15221
+"Andalucía";"Cádiz";"Arcos de la Frontera";"36.75078";"-5.812395";31210;15642;15568
+"Castilla La Mancha";"Ciudad Real";"Valdepeñas";"38.76053";"-3.384104";31147;15374;15773
+"Catalunya";"Barcelona";"Barberà del Vallès";"41.51596";"2.124723";31144;15544;15600
+"Galicia";"A Coruña";"Carballo";"43.21217";"-8.691041";30990;15129;15861
+"Castilla La Mancha";"Albacete";"Hellín";"38.51216";"-1.70331";30976;15507;15469
+"Castilla León";"León";"San Andrés del Rabanedo";"42.61139";"-5.619493";30906;15042;15864
+"Valencia";"Valencia/València";"Xirivella";"39.46669";"-0.4277937";30691;15474;15217
+"Castilla La Mancha";"Ciudad Real";"Alcázar de San Juan";"39.38993";"-3.210137";30675;15191;15484
+"Valencia";"Valencia/València";"Manises";"39.49073";"-0.4558824";30508;15140;15368
+"Valencia";"Valencia/València";"Alaquàs";"39.45708";"-0.4610681";30392;15123;15269
+"País Vasco";"Vizcaya";"Leioa";"43.3261";"-2.987704";30079;14706;15373
+"Andalucía";"Córdoba";"Puente Genil";"37.39051";"-4.770465";30033;14927;15106
+"Galicia";"Pontevedra";"Redondela";"42.28379";"-8.607425";30001;14684;15317
+"Catalunya";"Girona";"Salt";"41.97416";"2.792586";29985;16132;13853
+"Valencia";"Valencia/València";"Aldaia";"39.46505";"-0.4613582";29914;14976;14938
+"Galicia";"A Coruña";"Arteixo";"43.30451";"-8.511387";29762;14906;14856
+"Valencia";"Alicante/Alacant";"Calpe/Calp";"38.64483";"0.0454063";29666;15177;14489
+"País Vasco";"Vizcaya";"Sestao";"43.30964";"-3.00694";29476;14300;15176
+"Valencia";"Valencia/València";"Xàtiva";"38.98887";"-0.5156137";29386;14476;14910
+"Canarias";"Las Palmas";"Ingenio";"27.92047";"-15.44246";29319;14879;14440
+"Islas Baleares";"Illes Balears";"Inca";"39.71875";"2.915544";29308;14965;14343
+"Andalucía";"Cádiz";"San Roque";"36.20975";"-5.384572";29249;14793;14456
+"País Vasco";"Vizcaya";"Galdakao";"43.23056";"-2.845833";29226;14468;14758
+"Murcia";"Murcia";"Totana";"37.77124";"-1.501004";29211;15059;14152
+"Islas Baleares";"Illes Balears";"Ciutadella de Menorca";"40.00232";"3.839262";29160;14591;14569
+"Islas Baleares";"Illes Balears";"Maó";"39.88961";"4.264211";29125;14453;14672
+"Canarias";"Las Palmas";"Agüimes";"27.90411";"-15.44564";28924;14814;14110
+"Valencia";"Valencia/València";"Sueca";"39.20264";"-0.3106423";28908;14450;14458
+"Valencia";"Alicante/Alacant";"Crevillent";"38.24703";"-0.803492";28609;14647;13962
+"Andalucía";"Cádiz";"Rota";"36.61699";"-6.358202";28516;14300;14216
+"Andalucía";"Sevilla";"Morón de la Frontera";"37.1223";"-5.451869";28455;14149;14306
+"Valencia";"Valencia/València";"Oliva";"38.91939";"-0.1226779";28419;14376;14043
+"Catalunya";"Barcelona";"Sant Pere de Ribes";"41.2591";"1.775418";28353;14365;13988
+"Andalucía";"Sevilla";"Carmona";"37.47102";"-5.642328";28344;14321;14023
+"Valencia";"Valencia/València";"Algemesí";"39.19387";"-0.4347581";28308;14092;14216
+"Valencia";"Castellón/Castelló";"Vinaròs";40471;"0.4747435";28273;14145;14128
+"País Vasco";"Vizcaya";"Durango";"43.16907";"-2.632655";28229;13878;14351
+"Galicia";"A Coruña";"Culleredo";"43.31584";"-8.384923";28227;13759;14468
+"Andalucía";"Sevilla";"Coria del Río";"37.28506";"-6.051814";28100;14157;13943
+"Catalunya";"Barcelona";"Sant Vicenç dels Horts";"41.39362";"2.00987";27701;13897;13804
+"Andalucía";"Granada";"Almuñécar";"36.73454";"-3.690736";27696;13677;14019
+"Catalunya";"Barcelona";"Sitges";"41.23478";"1.811222";27668;13801;13867
+"Galicia";"A Coruña";"Ribeira";"42.57627";"-9.023945";27518;13639;13879
+"País Vasco";"Guipúzcoa";"Eibar";"43.18418";"-2.473289";27419;13337;14082
+"Catalunya";"Barcelona";"Premià de Mar";"41.48958";"2.356536";27399;13567;13832
+"Valencia";"Alicante/Alacant";"Novelda";"38.3853";"-0.7653857";27135;13553;13582
+"Valencia";"Valencia/València";"Catarroja";"39.40274";"-0.4035184";27035;13475;13560
+"Galicia";"A Coruña";"Ames";"42.9";"-8.633333";26983;13079;13904
+"Catalunya";"Barcelona";"Martorell";"41.47355";"1.927682";26681;13833;12848
+"Valencia";"Castellón/Castelló";"Benicarló";"40.4187";"0.4231017";26655;13507;13148
+"Catalunya";"Tarragona";"Salou";"41.07677";"1.144041";26649;14429;12220
+"Castilla La Mancha";"Albacete";"Villarrobledo";"39.26726";"-2.607643";26642;13377;13265
+"Andalucía";"Almería";"Níjar";"36.96576";"-2.20651";26516;14653;11863
+"Valencia";"Alicante/Alacant";"Campello (el)";"38.42892";"-0.3978871";26511;13199;13312
+"Madrid";"Madrid";"Villaviciosa de Odón";"40.3571";"-3.90059";26475;12917;13558
+"Andalucía";"Sevilla";"Lebrija";"36.91951";"-6.078367";26434;13321;13113
+"Murcia";"Murcia";"Caravaca de la Cruz";"38.10899";"-1.866033";26415;13280;13135
+"Catalunya";"Barcelona";"Sant Andreu de la Barca";"41.44718";"1.975935";26401;13423;12978
+"Catalunya";"Barcelona";"Pineda de Mar";"41.62751";"2.689454";26203;13335;12868
+"Andalucía";"Sevilla";"Camas";"37.40087";"-6.032911";26015;12750;13265
+"Galicia";"Pontevedra";"Marín";"42.39147";"-8.699853";25969;13000;12969
+"Andalucía";"Huelva";"Lepe";"37.25432";"-7.203348";25886;13332;12554
+"Extremadura";"Badajoz";"Villanueva de la Serena";"38.97399";"-5.800302";25838;12666;13172
+"Galicia";"Pontevedra";"Cangas";"42.26471";"-8.782845";25748;12753;12995
+"Castilla La Mancha";"Albacete";"Almansa";"38.86941";"-1.097517";25727;12760;12967
+"Valencia";"Castellón/Castelló";"Onda";"39.9653";"-0.2626455";25691;13149;12542
+"Murcia";"Murcia";"Jumilla";"38.47595";"-1.322032";25685;13367;12318
+"Valencia";"Valencia/València";"Quart de Poblet";"39.48259";"-0.4450733";25499;12583;12916
+"Catalunya";"Tarragona";"Valls";"41.28728";"1.251579";25092;12672;12420
+"Catalunya";"Barcelona";"Santa Perpètua de Mogoda";"41.53486";"2.178988";25048;12889;12159
+"Valencia";"Castellón/Castelló";"Almazora/Almassora";"39.94497";"-0.0633176";24963;12645;12318
+"La Rioja";"La Rioja";"Calahorra";"42.30372";"-1.965034";24787;12329;12458
+"Andalucía";"Jaén";"Martos";"37.72278";"-3.966259";24655;12106;12549
+"Canarias";"Las Palmas";"Gáldar";"28.14404";"-15.65036";24405;12285;12120
+"Andalucía";"Almería";"Adra";"36.74807";"-3.022522";24373;12338;12035
+"Canarias";"Santa Cruz de Tenerife";"Candelaria";"28.35276";"-16.37013";24319;11964;12355
+"Catalunya";"Tarragona";"Calafell";"41.20056";"1.568441";24265;12368;11897
+"País Vasco";"Vizcaya";"Erandio";"43.30746";"-2.946418";24262;11911;12351
+"Valencia";"Valencia/València";"Cullera";"39.16514";"-0.2559119";24121;12244;11877
+"Valencia";"Alicante/Alacant";"Ibi";"38.62551";"-0.5713521";24113;12134;11979
+"Catalunya";"Barcelona";"Molins de Rei";"41.41392";"2.015836";24067;11753;12314
+"Canarias";"Santa Cruz de Tenerife";"Icod de los Vinos";"28.36761";"-16.71886";24024;11917;12107
+"Andalucía";"Córdoba";"Montilla";"37.58963";"-4.638313";23840;11822;12018
+"Valencia";"Alicante/Alacant";"Altea";"38.60032";"-0.0491708";23780;11884;11896
+"Murcia";"Murcia";"San Pedro del Pinatar";"37.83504";"-0.7915859";23738;12053;11685
+"Canarias";"Santa Cruz de Tenerife";"Tacoronte";"28.48153";-16412;23562;11763;11799
+"Valencia";"Valencia/València";"Paiporta";"39.42845";"-0.4188691";23519;11855;11664
+"Andalucía";"Córdoba";"Priego de Córdoba";"37.4389";"-4.194839";23513;11576;11937
+"Andalucía";"Granada";"Baza";"37.49065";"-2.774473";23359;11672;11687
+"Andalucía";"Málaga";"Alhaurín el Grande";"36.64186";"-4.691447";23319;11730;11589
+"Catalunya";"Barcelona";"Olesa de Montserrat";"41.5434";"1.888153";23301;11778;11523
+"Galicia";"A Coruña";"Cambre";"43.29416";"-8.34498";23231;11426;11805
+"Galicia";"Pontevedra";"Ponteareas";"42.17637";"-8.502382";23172;11325;11847
+"Catalunya";"Barcelona";"Castellar del Vallès";"41.61618";"2.085649";23002;11448;11554
+"Andalucía";"Cádiz";"Barbate";"36.19282";"-5.918903";22912;11447;11465
+"Asturias";"Asturias";"Castrillón";"43.55";-5967;22894;11195;11699
+"Andalucía";"Almería";"Vícar";"36.83145";"-2.642515";22853;12114;10739
+"Andalucía";"Jaén";"Alcalá la Real";"37.46358";"-3.925078";22783;11343;11440
+"Andalucía";"Sevilla";"Tomares";"37.37404";"-6.045198";22772;11252;11520
+"Valencia";"Valencia/València";"Llíria";"39.62458";"-0.5947581";22706;11566;11140
+"País Vasco";"Guipúzcoa";"Zarautz";"43.28036";"-2.171588";22627;11122;11505
+"Valencia";"Alicante/Alacant";"Mutxamel";"38.41235";"-0.4432408";22510;11290;11220
+"Madrid";"Madrid";"Mejorada del Campo";"40.39701";"-3.487864";22488;11303;11185
+"Valencia";"Valencia/València";"Alboraya";"39.49935";"-0.3497834";22405;11176;11229
+"Catalunya";"Girona";"Palafrugell";"41.91719";"3.163817";22365;11301;11064
+"Andalucía";"Cádiz";"Barrios (Los)";"36.18539";"-5.492747";22311;11258;11053
+"Catalunya";"Barcelona";"Masnou (El)";"41.47931";"2.319244";22288;10709;11579
+"Islas Baleares";"Illes Balears";"Sant Josep de sa Talaia";"38.92173";"1.293443";22171;11595;10576
+"Madrid";"Madrid";"Ciempozuelos";"40.15934";"-3.6184";22132;11240;10892
+"Navarra";"Navarra";"Barañain";"42.80492";"-1.685519";22110;10930;11180
+"País Vasco";"Guipúzcoa";"Arrasate/Mondragón";"43.06451";"-2.487716";22064;10952;11112
+"Valencia";"Alicante/Alacant";"Pilar de la Horadada";"37.86538";"-0.7925081";22050;11450;10600
+"Canarias";"Las Palmas";"Oliva (La)";"28.6104";"-13.9288";21996;11854;10142
+"Catalunya";"Girona";"Sant Feliu de Guíxols";"41.78058";"3.030733";21977;10997;10980
+"Valencia";"Alicante/Alacant";"Sant Joan d'Alacant";"38.39817";"-0.4345329";21939;10703;11236
+"Aragón";"Zaragoza";"Calatayud";"41.35432";"-1.647009";21933;10909;11024
+"Valencia";"Valencia/València";"Moncada";"39.54554";"-0.3934617";21900;10900;11000

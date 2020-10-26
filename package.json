@@ -1,0 +1,15 @@
+{
+  "name": "mcspain-dataset",
+  "version": "1.0.0",
+  "description": "Extrae todos los mcdonalds de España entre las 400 ciudades más grandes de España (geocsv de 2010)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/equisele",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "node-fetch": "^2.6.1"
+  }
+}
