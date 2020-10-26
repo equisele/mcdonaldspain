@@ -1,5 +1,5 @@
 {
-  "name": "mcspain-dataset",
+  "name": "mcdonaldspain",
   "version": "1.0.0",
   "description": "Extrae todos los mcdonalds de España entre las 400 ciudades más grandes de España (geocsv de 2010)",
   "main": "index.js",
